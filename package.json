@@ -1,0 +1,19 @@
+{
+  "name": "tilda.cc",
+  "version": "0.0.0",
+  "description": "Helper classes for websites built using tilda.cc",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lspliner/tilda.cc.git"
+  },
+  "author": "Lev Pliner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lspliner/tilda.cc/issues"
+  },
+  "homepage": "https://github.com/lspliner/tilda.cc#readme"
+}

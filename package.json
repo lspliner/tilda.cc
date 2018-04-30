@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lspliner/tilda.cc/issues"
   },
-  "homepage": "https://github.com/lspliner/tilda.cc#readme"
+  "homepage": "https://github.com/lspliner/tilda.cc#readme",
+  "dependencies": {
+    "ajv": "^6.4.0"
+  }
 }

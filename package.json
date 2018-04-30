@@ -1,6 +1,6 @@
 {
   "name": "tilda.cc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Helper classes for websites built using tilda.cc",
   "main": "index.js",
   "scripts": {
